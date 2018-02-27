@@ -1,0 +1,30 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "Hello Koa 2 example with async",
+  "main": "my-koa-app.js",
+  "scripts": {
+    "start": "node my-koa-app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "Wynn wang",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelliao/learn-javascript.git"
+  },
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.0.7",
+    "monk": "^6.0.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
