@@ -10,6 +10,7 @@
 # 在Client目录下执行npm start
 
 # 访问 http://localhost:8080/#/
+```
 
 
 ## 后端启动
@@ -20,3 +21,4 @@
 ## 启动mongodb
  
 ## 在Server目录下打开终端 执行npm start
+```
